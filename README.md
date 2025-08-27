@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan1026&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan1026" /> </p>
 
--Code Eat Sleep Repeat.......
 
 - 🔭 I Recently Completed My Graduation
-- 
+ 
+- 🎖️🎖️Code Eat Sleep Repeat.......
 
 - 🌱 I’m currently learning **Mern Stack**
 
