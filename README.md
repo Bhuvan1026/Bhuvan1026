@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvan1026" alt="bhuvan1026" /></a> </p>
 
-- 🔭 I’m currently working on **New Mern Projects**
+- 🔭 I Recently Completed My Graduation 
 
 - 🌱 I’m currently learning **Mern Stack**
 
 - 📫 Reach me Throughh **bhuvansaisaga@gmail.com**
 
-- 📄 Know about my experiences [I Have done internships on AI and ML](I Have done internships on AI and ML)
+- 📄 I Have done internships on AI and ML
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Profiles<h3>
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/y21cs151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/y21cs151/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bhuvanscmuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bhuvanscmuz/" height="30" width="40" /></a>
